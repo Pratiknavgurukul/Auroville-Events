@@ -18,7 +18,7 @@ export class Contact extends Component {
               <form
                 id="contact-form"
                 name="contact-form"
-                action="http://localhost:8090/contact"
+                action="http://13.126.28.110:8090/contact"
                 method="Post"
               >
                 <div className="row">

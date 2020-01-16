@@ -51,10 +51,10 @@ app.post("/contact", (req, res) => {
   transporter.sendMail(mailOptions, function(error, info) {
     if (error) {
       console.log(error);
-      res.redirect("http://localhost:3000/contact");
+      res.redirect("http://13.126.28.110:5002/contact");
     } else {
       console.log("Email sent: " + info.response);
-      res.redirect("http://localhost:3000/");
+      res.redirect("http://13.126.28.110:5002/");
     }
   });
 });
