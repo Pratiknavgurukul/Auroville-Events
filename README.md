@@ -2,7 +2,7 @@
 This app shows all the auroville events according to their catagories and it also has a contact page from where you can send you feedback.<br/>
 The application is responsive, you can open in desktop and mobile ( you will have a better experience )
 
-##### visit the app http://auroville.ml
+##### visit the app <a href="http://auroville.ml"> auroville.ml </a>
 
 ## Requirements and execution
 1. first clone the repo to run it in your local 
