@@ -1,5 +1,5 @@
 # Auroville-Events
-This app shows all the auroville events according to their catagories and it also has a contact page from where you can send you feedback.<br/>
+This app shows all the auroville events according to their catagories and it also has a contact page from where you can send your feedback.<br/>
 The application is responsive, you can open in desktop and mobile ( you will have a better experience )
 
 ##### visit the app <a href="http://auroville.ml"> auroville.ml </a>
