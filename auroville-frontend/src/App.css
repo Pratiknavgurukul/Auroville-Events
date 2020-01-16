@@ -53,6 +53,7 @@
   .card {
     width: 350px;
     margin:0 auto;
+    margin-top:20px;
   }
   .details {
     margin-top: 40px;
