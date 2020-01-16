@@ -52,17 +52,10 @@
   }
   .card {
     width: 350px;
-    display: inline-block;
+    margin:0 auto;
   }
   .details {
     margin-top: 40px;
     margin-left: 20px;
-  }
-}
-
-@media only screen and (max-width: 600px) {
-  .card {
-    /* margin-left: -14%; */
-    display: inline-block;
   }
 }
