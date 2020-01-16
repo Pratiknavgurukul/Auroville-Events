@@ -13,7 +13,7 @@ export class App extends Component {
 
   componentWillMount() {
     axios
-      .get("http://localhost:8090/events")
+      .get("http://13.126.28.110:8090/events")
       .then(data => {
         console.log(data);
         var category = [];
